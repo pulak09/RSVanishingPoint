@@ -5,15 +5,17 @@ Purkait, Pulak, Christopher Zach, and Ales Leonardis. "Rolling shutter correctio
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237363
 
-For a matlab version of the code email to pulak.isi@gmail.com 
+For any questions or a matlab version of the code email to pulak.isi@gmail.com 
 
 ## Requirements
 Opencv 
 
 ## Compile 
-* cmake .
-* make 
+user@p18:~$ cmake .
+
+user@p18:~$ make 
 
 ## Run 
-./vanishingPoint -image RollingShutter.jpg 
-./vanishingPoint -video splice.mp4
+user@p18:~$./vanishingPoint -image RollingShutter.jpg 
+
+user@p18:~$./vanishingPoint -video splice.mp4
