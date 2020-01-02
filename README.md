@@ -22,6 +22,7 @@ user@p18:~$./vanishingPoint -video splice.mp4
 
 ![GitHub Logo](logo.png)
 
-The input is a rolling shutter degraded image and the output is the motion compensated image. If you find the code useful, please site the following paper: 
+The input is a rolling shutter degraded image and the output is the motion compensated image. 
 
+If you find the code useful, please site the following paper: 
 Purkait, Pulak, Christopher Zach, and Ales Leonardis. "Rolling shutter correction in manhattan world." ICCV 2017.
