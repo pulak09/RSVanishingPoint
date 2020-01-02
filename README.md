@@ -19,3 +19,5 @@ user@p18:~$ make
 user@p18:~$./vanishingPoint -image RollingShutter.jpg 
 
 user@p18:~$./vanishingPoint -video splice.mp4
+
+![GitHub Logo](logo.png)
