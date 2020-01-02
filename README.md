@@ -8,7 +8,8 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237363
 For any questions or a matlab version of the code email to pulak.isi@gmail.com 
 
 ## Requirements
-Opencv, Eigen3 
+* Opencv
+* Eigen3 
 
 ## Compile 
 user@p18:~$ cmake .
